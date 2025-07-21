@@ -19,6 +19,7 @@ movies  =  [
     {'title':  'Titanic',  'year':  1997,  'rating':  7.8,  'genre':  'Romance'}
 ]
 ```
+
 ### Your Tasks
 
 Task 1a: Movie Sorting
@@ -43,6 +44,7 @@ Newest  movie:  Inception
 ```
 
 Task 1b: Movie Classification
+
 ```python
 # TODO: Create a lambda to classify movies by era
 # - Year >= 2000: 'Modern'
@@ -100,6 +102,7 @@ weather_data  =  [
 ### Your Task
 
 Temperature Conversion
+
 ```python
 # TODO: Use map() with lambda or user defined function to add Fahrenheit and Kelvin temperatures
 # Formula: Fahrenheit = (Celsius × 9/5) + 32
